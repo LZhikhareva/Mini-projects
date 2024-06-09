@@ -1,0 +1,22 @@
+.timer, .status p{
+  font-size: 25px;
+  margin: 0;
+}
+
+.symbol {
+  font-size: 50px;
+}
+
+.symbol_correct {
+  color: green;
+}
+
+.word {
+  font-weight: bold;
+  padding-top: 20px;
+}
+.word_incorrect {
+  background: red;
+  color: #fff;
+}
+
